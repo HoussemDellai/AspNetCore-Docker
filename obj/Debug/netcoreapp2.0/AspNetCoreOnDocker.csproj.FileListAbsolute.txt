@@ -1,0 +1,10 @@
+/Users/houssem/Desktop/Docker-Demo/AspNetCoreOnDocker/bin/Debug/netcoreapp2.0/AspNetCoreOnDocker.deps.json
+/Users/houssem/Desktop/Docker-Demo/AspNetCoreOnDocker/bin/Debug/netcoreapp2.0/AspNetCoreOnDocker.runtimeconfig.json
+/Users/houssem/Desktop/Docker-Demo/AspNetCoreOnDocker/bin/Debug/netcoreapp2.0/AspNetCoreOnDocker.runtimeconfig.dev.json
+/Users/houssem/Desktop/Docker-Demo/AspNetCoreOnDocker/bin/Debug/netcoreapp2.0/AspNetCoreOnDocker.dll
+/Users/houssem/Desktop/Docker-Demo/AspNetCoreOnDocker/bin/Debug/netcoreapp2.0/AspNetCoreOnDocker.pdb
+/Users/houssem/Desktop/Docker-Demo/AspNetCoreOnDocker/obj/Debug/netcoreapp2.0/AspNetCoreOnDocker.csproj.CoreCompileInputs.cache
+/Users/houssem/Desktop/Docker-Demo/AspNetCoreOnDocker/obj/Debug/netcoreapp2.0/AspNetCoreOnDocker.AssemblyInfoInputs.cache
+/Users/houssem/Desktop/Docker-Demo/AspNetCoreOnDocker/obj/Debug/netcoreapp2.0/AspNetCoreOnDocker.AssemblyInfo.cs
+/Users/houssem/Desktop/Docker-Demo/AspNetCoreOnDocker/obj/Debug/netcoreapp2.0/AspNetCoreOnDocker.dll
+/Users/houssem/Desktop/Docker-Demo/AspNetCoreOnDocker/obj/Debug/netcoreapp2.0/AspNetCoreOnDocker.pdb
